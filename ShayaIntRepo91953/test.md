@@ -13,3 +13,5 @@ new contributor: Bin
 more updates
 
 removed author metadata
+
+with exclude list and no author metadata

@@ -15,3 +15,5 @@ more updates
 removed author metadata
 
 with exclude list and no author metadata
+
+updated exclude list

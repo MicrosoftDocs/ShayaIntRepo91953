@@ -36,7 +36,9 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": { 
+      "contributors_to_exclude": []
+     },
     "fileMetadata": {},
     "template": [],
     "dest": "ShayaIntRepo91953",
